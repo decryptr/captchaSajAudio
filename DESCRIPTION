@@ -1,0 +1,15 @@
+Package: captchaSajAudio
+Title: Quebra o captcha do sistema e-SAJ por áudio
+Version: 0.0.0.9000
+Authors@R: person("Julio", "Trecenti", email = "jtrecenti@jtrecenti.com", role = c("aut", "cre"))
+Description: Quebra o captcha do sistema e-SAJ por audio, usando uma tabela pré-
+    classificada de todas as letras possíveis. É possível quebrar o captcha somente
+    com a tabela pois o áudio não tem ruído.
+Depends:
+    R (>= 3.3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    tuneR
+RoxygenNote: 5.0.1
