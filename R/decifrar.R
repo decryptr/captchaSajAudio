@@ -21,6 +21,7 @@ ler <- function(arq_mp3) {
   spl_sum
 }
 
+
 #' Decifra o audio
 #'
 #' Le um arquivo de audio e tenta decifrar quais sao as letras.
