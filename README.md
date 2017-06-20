@@ -8,7 +8,7 @@ Quebra captcha do sistema e-SAJ por áudio.
 
 ```
 if (!require(devtools)) install.packages('devtools')
-devtools::install_github('captchaSajAudio')
+devtools::install_github('decryptr/captchaSajAudio')
 ```
 
 ## Exemplo
